@@ -17,18 +17,18 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) =
     let readMore = more.repeat(850)   
     let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let m2 = `
-ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ
+ᴛʜᴇ Ash_BOT
 `
 let pp = './Guru.jpg' 
     conn.sendButton(m.chat, m2, `╭═══〘 ✯✯✯✯✯✯✯ 〙══╮
-║    *ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ* 
+║    *ᴛʜᴇ ASH-ʙᴏᴛ* 
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ii, ${taguser}* 
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Creater:* Guru
-║➤ *Number:* wa.me/917605902011
-║➤ *Bot ofc:* wa.me/19048880099
-║➤ *Insta:* asli_guru69
+║➤ *Creater:* ASH UCHIHA 
+║➤ *Number:* wa.me/6281255369012
+║➤ 
+║➤ *Insta:* was_ash_enough
 ║➤ *Total Users:* ${rtotalreg}
 ╰═══╡✯✯✯✯✯✯✯╞═══╯
 ┏━━━━━━━━━━━━━━━━┓
