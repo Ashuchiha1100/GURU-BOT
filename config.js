@@ -11,8 +11,8 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['6281255369012'] 
-global.prems = ['6281255369012']
+global.mods = ['6281255369012','6281255369012'] 
+global.prems = ['917605902011', '32460248586', '919398758484']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,8 +47,14 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'ASH SOLO' 
-global.author = '@ashuchiha 
-
+global.author = '@Ashuchiha' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
+global.fgyt = 'https://youtube.com/@Asliguru'
+global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
