@@ -53,7 +53,7 @@ let infobt = `
 
 *≡ OWNER*
   *ASH UCHIHA*
-  CONTACT ; wa.me/6281255369012
+  CONTACT ; 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
 *🔵 FreeRAM:* ${format(freemem())}

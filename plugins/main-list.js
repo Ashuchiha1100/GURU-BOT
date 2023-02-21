@@ -270,7 +270,7 @@ let m2 = `
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 `
 let pp = './Guru.jpg' 
-    conn.sendButton(m.chat, m2, '▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n', pp, 
+    conn.sendButton(m.chat, m2, '▢ Ash   ┃ ᴮᴼᵀ\n▢ OWNER CONTACT wa.me/ \n', pp, 
       ['⌬ Groups', `${usedPrefix}gpguru`]
     ,m, rpyt)
 
