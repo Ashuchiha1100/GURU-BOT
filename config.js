@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   
   ['6281255369012', 'Ash', true], 
-  [''] 
+  [''6285787263074' , Mr°s Ash , true] 
 ] //Number of owners
 
 global.mods = ['6281255369012','6281255369012'] 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.packname = 'Ash┃ᴮᴼᵀ' 
 global.author = '@ash' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/was.ash.enough\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.dygp = 'https://chat.whatsapp.com/Kw84MxHR1HOHtvtp3zArYI'
 global.fgsc = 'Ashhhh' 
 global.fgyt = 'ashhhhhhhh'
 global.fgpyp = 'https://youtube.com/@Ashhhhhhhhhhhhhhh'
